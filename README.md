@@ -20,11 +20,11 @@ This research contributes to advancing automated periodontal disease detection s
 
 ## Installation
 
-- Install PyTorch.
-pip install torch torchvision torchaudio
+- Install PyTorch
+-pip install torch torchvision torchaudio
 
 - Install Matplotlib, Seaborn, Scikit-learn.
-pip install matplotlib seaborn scikit-learn
+-pip install matplotlib seaborn scikit-learn
 
 ## Model Architecture
 Our custom CNN architecture (PeriodontakNet) is desiged to optimize detection accuracy while maintaining computational efficiency.
